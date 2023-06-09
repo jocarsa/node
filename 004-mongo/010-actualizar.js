@@ -1,0 +1,1 @@
+db.posts.updateOne( { title: "Post Title 1" }, { $set: { likes: 2 } } )

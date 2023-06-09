@@ -1,0 +1,1 @@
+db.posts.find( {category: "News"} )

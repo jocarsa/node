@@ -1,0 +1,1 @@
+db.posts.find({}, {title: 1, date: 1})

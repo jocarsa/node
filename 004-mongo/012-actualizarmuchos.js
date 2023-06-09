@@ -1,0 +1,1 @@
+db.posts.updateMany({}, { $inc: { likes: 1 } })
